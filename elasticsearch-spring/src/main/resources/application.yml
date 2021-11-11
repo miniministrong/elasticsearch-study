@@ -1,0 +1,8 @@
+# es服务地址
+elasticsearch:
+  host: 127.0.0.1
+  port: 9200
+# 配置日志级别，开启debug日志
+logging:
+  level:
+    com.wenze.es: debug
